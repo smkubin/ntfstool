@@ -18,6 +18,7 @@ Download the latest binaries on [AppVeyor](https://ci.appveyor.com/project/thewh
 
 See below for some [examples](#examples) of the features!
 
+An alternative documentation made by [deepwiki](https://deepwiki.com) is available here : [https://deepwiki.com/thewhiteninja/ntfstool/](https://deepwiki.com/thewhiteninja/ntfstool)
 
 ## Features
 
