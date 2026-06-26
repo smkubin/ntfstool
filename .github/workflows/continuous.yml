@@ -40,7 +40,7 @@ jobs:
         run: |
           mkdir final
           copy D:\a\ntfstool\ntfstool\Builds\${{matrix.Configuration}}\${{matrix.Arch}}\ntfstool*.exe final
-      - uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v4
         with:
           name: build-${{matrix.Configuration}}-${{matrix.Arch}}
           path: final
